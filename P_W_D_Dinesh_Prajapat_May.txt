@@ -1,0 +1,29 @@
+A short description of month of May.
+
+
+
+1.  work of client project
+		updating the complete look of the website
+		also handle the login and signup errors
+		update the content in shop, about and homepage
+	website is completely done according to demands of client with demo content.
+
+2.  now back to Forsk Technologies
+		1.  first 2 weeks I joined the bootcamp and learning the python with basics
+			topic covered
+				basics of python
+				list, array and dictionary 
+				string and slicing concept
+				map, lambda and reduce method
+				json
+				webscrapping and web automation
+				basics of PowerBI
+				matplotlib 
+				numpy
+				pandas
+				github
+		2.  after that i start helping in the bootcamp students in next 1 week in solving the 
+			problems of the python.
+		3.  i went home for 12 days because of family problems.
+
+
